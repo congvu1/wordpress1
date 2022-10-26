@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Short &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/short/feed/" rel="self" type="application/rss+xml" />
+	<link>https://congvu1.github.io/wordpress1</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Mon, 24 Oct 2022 09:30:22 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>White Classic Mona Superlight Audax Men&#8217;s Jersey</title>
+		<link>https://congvu1.github.io/wordpress1/san-pham/white-classic-mona-superlight-audax-mens-jersey/</link>
+					<comments>https://congvu1.github.io/wordpress1/san-pham/white-classic-mona-superlight-audax-mens-jersey/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 07:56:01 +0000</pubDate>
+				<guid isPermaLink="false">https://congvu1.github.io/wordpress1/?post_type=product&#038;p=378</guid>
+
+					<description><![CDATA[The superlight Mona is a part of our Audax collection and built for high summer riding. The semi-mesh fabric provides exceptional ventilation and thermoregulation, aiding core temperature control in hotter weather and harder conditions. High wicking, fast drying and with consistent airflow, Mona is exceptionally effective when the mercury rises.]]></description>
+										<content:encoded><![CDATA[<p>Designed with longer distances in mind, Mona features our unique pocket configuration to increase loading capacity. Along with the classic three rear cargo pockets, the jersey has also been designed with a large mesh &#8216;drop&#8217; pocket. Ideal for an additional base layer, warmer jacket or anything else needed when further is the order of the day.</p>
+<p>The jersey has added reflectively for security when the light begins to fade out on the road, with an oversized panel positioned below the pockets and a reflective trim on both shoulders. The rear of the jersey also includes an embroidered Café du Cycliste Audax logo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://congvu1.github.io/wordpress1/san-pham/white-classic-mona-superlight-audax-mens-jersey/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pale Yellow Mesh Short Sleeve Women&#8217;s Base Layer</title>
+		<link>https://congvu1.github.io/wordpress1/san-pham/pale-yellow-mesh-short-sleeve-womens-base-layer/</link>
+					<comments>https://congvu1.github.io/wordpress1/san-pham/pale-yellow-mesh-short-sleeve-womens-base-layer/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 07:50:30 +0000</pubDate>
+				<guid isPermaLink="false">https://congvu1.github.io/wordpress1/?post_type=product&#038;p=364</guid>
+
+					<description><![CDATA[Features:
+<ul>
+ 	<li>Lightweight, highly-breathable, moisture wicking, quick drying performance fabric</li>
+ 	<li>Flatlock seams for high-comfort close to the skin fit</li>
+ 	<li>Anti-bacterial treatment applied to fabric</li>
+ 	<li>Made in Italy</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Short sleeve mesh base layer for effective core temperature regulation when riding in warm conditions. Breathable, stretchy, and soft on the skin, the mesh fabric wicks moisture away from the body, regulating temperature and keeping the wearer comfortable on long days in the saddle.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://congvu1.github.io/wordpress1/san-pham/pale-yellow-mesh-short-sleeve-womens-base-layer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

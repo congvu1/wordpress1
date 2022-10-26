@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Clothing &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/clothing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://congvu1.github.io/wordpress1</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Mon, 24 Oct 2022 07:44:36 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Mist Ultralight Windproof Gilet</title>
+		<link>https://congvu1.github.io/wordpress1/san-pham/mist-ultralight-windproof-gilet/</link>
+					<comments>https://congvu1.github.io/wordpress1/san-pham/mist-ultralight-windproof-gilet/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 07:44:36 +0000</pubDate>
+				<guid isPermaLink="false">https://congvu1.github.io/wordpress1/?post_type=product&#038;p=353</guid>
+
+					<description><![CDATA[Highly packable, lightweight, windproof and water resistant cycling gilet.
+
+Whether it’s a cold early start, a chilly mountain descent or just an additional layer for when you're out all day, our windproof gilet is a versatile outer layer for a wide range of temperatures and conditions.]]></description>
+										<content:encoded><![CDATA[<h4>Features:</h4>
+<ul>
+<li>Ultralight, water and wind resistant performance recycled fabric</li>
+<li>Total weight: 70 grams (size M)</li>
+<li>YKK 2-way double zip</li>
+<li>Zippable front stash pocket</li>
+<li>Easily packs down into a jersey pocket</li>
+<li>Stretchy mesh side panels for additional breathability and enhanced fit</li>
+<li>Reflective details at sides and rear</li>
+<li>Fabric &#8211; main 100% recycled nylon; mesh 73% recycled nylon, 27% recycled elastane</li>
+<li>Made in Italy</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://congvu1.github.io/wordpress1/san-pham/mist-ultralight-windproof-gilet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

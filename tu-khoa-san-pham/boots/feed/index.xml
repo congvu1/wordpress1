@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Boots &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/boots/feed/" rel="self" type="application/rss+xml" />
+	<link>https://congvu1.github.io/wordpress1</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Mon, 24 Oct 2022 09:33:24 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Black Exceed Cycling Shoes</title>
+		<link>https://congvu1.github.io/wordpress1/san-pham/black-exceed-cycling-shoes/</link>
+					<comments>https://congvu1.github.io/wordpress1/san-pham/black-exceed-cycling-shoes/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 07:40:26 +0000</pubDate>
+				<guid isPermaLink="false">https://congvu1.github.io/wordpress1/?post_type=product&#038;p=345</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>The shoe size corresponding to your largest foot is the correct one.</li>
+ 	<li>In case of a length difference &#62; 3mm, please contact to our customer service to consult how to select the correct size.</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Our EXCEED is a full-bred performance shoe showcasing superior fit, performance and comfort with its ultra-stiff carbon chassis and its full microfiber upper at 215 gram. An all-round product that exceeds the expectations of the uncompromising, ambitious rider.</p>
+<p>&nbsp;</p>
+<p>Our proprietary ultra-stiff carbon sole is where all Nimbl shoes are built around. This system allows for optimal support of your entire foot. It furthermore provides superior stiffness to maximize power transfer, comfort and pedaling efficiency whilst keeping its weight at benchmark levels.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://congvu1.github.io/wordpress1/san-pham/black-exceed-cycling-shoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pro Edition Ultimate Cycling Shoes</title>
+		<link>https://congvu1.github.io/wordpress1/san-pham/pro-edition-ultimate-cycling-shoes/</link>
+					<comments>https://congvu1.github.io/wordpress1/san-pham/pro-edition-ultimate-cycling-shoes/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 07:33:07 +0000</pubDate>
+				<guid isPermaLink="false">https://congvu1.github.io/wordpress1/?post_type=product&#038;p=331</guid>
+
+					<description><![CDATA[The basis of the Ultimate is our improved proprietary monocoque carbon chassis. The exposed carbon visibly underlines that the construction and assembly of our shoes is fundamentally different to all other mainstream brands.]]></description>
+										<content:encoded><![CDATA[<p>Unparalleled power transfer for all your explosive sprints and short, out of the saddle power bursts. In comparison to the EXCEED and AIR we have built in extra stiffness into the carbon fibre chassis. And we are not afraid to show it off – more exposed carbon fibre that highlights the unique handmade fabrication methods that are applied in the ULTIMATE.</p>
+<p>Professionals ride over 30.000 kilometers per year hence the world tour peloton is the ultimate testing ground for high-end performance products. For the 2021 season Nimbl is the choice of over 25 world class athletes that have sought new levels of performance through their shoes. Greg van Avermaet, rider of the AG2R Citroën team is one of them. The Olympic champion is known to be demanding on his equipment and approached Nimbl to see whether we could jointly develop a new benchmark for power transfer, comfort and most importantly fit. The result of this development process: the ULTIMATE.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://congvu1.github.io/wordpress1/san-pham/pro-edition-ultimate-cycling-shoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

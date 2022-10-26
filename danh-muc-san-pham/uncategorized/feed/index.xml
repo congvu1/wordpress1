@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://congvu1.github.io/wordpress1</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Mon, 24 Oct 2022 07:16:27 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Durable Silk Bag</title>
+		<link>https://congvu1.github.io/wordpress1/san-pham/durable-silk-bag/</link>
+					<comments>https://congvu1.github.io/wordpress1/san-pham/durable-silk-bag/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 07:16:27 +0000</pubDate>
+				<guid isPermaLink="false">https://congvu1.github.io/wordpress1/?post_type=product&#038;p=295</guid>
+
+					<description><![CDATA[Possimus qui magni possimus ad vitae incidunt ullam. Eligendi minus earum optio autem. Tenetur excepturi quia doloribus ut. Corporis et dicta nam aut non ipsa.]]></description>
+										<content:encoded><![CDATA[<p>Magni consequatur molestias aliquid. Soluta aut incidunt et vero ea illum molestiae ut. Blanditiis aut sit eius facere qui sunt totam et.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://congvu1.github.io/wordpress1/san-pham/durable-silk-bag/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Durable Steel Bench</title>
+		<link>https://congvu1.github.io/wordpress1/san-pham/durable-steel-bench/</link>
+					<comments>https://congvu1.github.io/wordpress1/san-pham/durable-steel-bench/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 14:25:06 +0000</pubDate>
+				<guid isPermaLink="false">https://congvu1.github.io/wordpress1/?post_type=product&#038;p=152</guid>
+
+					<description><![CDATA[Fugiat perferendis odio sunt error est et. Rerum accusantium repudiandae dolores. Nihil labore voluptas quasi saepe doloribus vel magnam.]]></description>
+										<content:encoded><![CDATA[<p>Ea hic alias repudiandae nobis. Impedit ullam in quis aut. Voluptas natus est facere nemo amet rerum. Deserunt assumenda facilis perspiciatis. Sint laborum autem qui praesentium maiores enim quas.</p>
+<p>Ipsam maxime adipisci qui dolorum ipsa ea iusto. Autem exercitationem iusto architecto excepturi animi repellendus iste. Rerum nobis voluptas hic molestiae quidem qui. Quo maxime nihil veritatis impedit optio quia. Molestias est minima accusantium illum repudiandae ut.</p>
+<p>Quo ut doloribus dolore nesciunt velit eligendi quidem consequatur. Dolores occaecati velit adipisci exercitationem. Dolore veniam aut eos reprehenderit at deserunt. Alias ut consequuntur explicabo et ipsum tenetur atque explicabo.</p>
+<p>Qui illum deserunt eaque aut suscipit. Aliquid sunt vitae labore soluta odio. Sed et quia tenetur architecto.</p>
+<p>Quia dolor nihil incidunt nam voluptatem. Error sed consequatur et eveniet explicabo quos et. Ab nihil autem voluptas rem. Quasi cum et et iste fugit dolores est. Aut corporis non repellat quia.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://congvu1.github.io/wordpress1/san-pham/durable-steel-bench/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
