@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/author/user1/feed/" rel="self" type="application/rss+xml" />
 	<link>https://congvu1.github.io/wordpress1</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 25 Oct 2022 09:42:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Oct 2022 06:41:40 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,11 +29,9 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://congvu1.github.io/wordpress1/?p=453</guid>
 
-					<description><![CDATA[Ngoại hình thời thượng, công nghệ an toàn, tính năng thông minh, tiện ích đa dạng, xe máy điện VinFast đang góp phần giúp người Việt đến gần hơn với giao thông xanh, vì sự phát triển bền vững Với nỗ lực hướng tới hãng xe thuần điện trong tương lai, bên cạnh ô tô, [&#8230;]]]></description>
+					<description><![CDATA[Với nỗ lực hướng tới hãng xe thuần điện trong tương lai, bên cạnh ô tô, VinFast cũng cho ra đời các mẫu xe máy điện từ phổ thông đến cao cấp, có khả năng cạnh tranh cao, phù hợp với nhu cầu của đa dạng người dùng. 13 mẫu xe máy điện VinFast với [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p><h2></h2>
-<h3></h3>
-<p>Ngoại hình thời thượng, công nghệ an toàn, tính năng thông minh, tiện ích đa dạng, xe máy điện VinFast đang góp phần giúp người Việt đến gần hơn với giao thông xanh, vì sự phát triển bền vững</p></p>
+<p></p>
 
 
 
@@ -52,11 +50,11 @@
 
 
 
-<p>Vậy ngay sau đây, Sonsu sẽ trả lời tất cả các câu hỏi mà người mua xe điện thường hỏi nhất như giá xe đạp vinfast bao nhiêu hay xe máy điện vinFast giá bao nhiêu? xe đạp điện vinfast</p>
-
-
-
 <p></p>
+
+
+
+<h2>Vậy ngay sau đây, Sonsu sẽ trả lời tất cả các câu hỏi mà người mua xe điện thường hỏi nhất như giá xe đạp vinfast bao nhiêu hay xe máy điện vinFast giá bao nhiêu? xe đạp điện vinfast</h2>
 
 
 
@@ -91,7 +89,7 @@
 <figure class="alignleft size-full is-resized"><img loading="lazy" src="https://congvu1.github.io/wordpress1/wp-content/uploads/2022/10/xe-dap-dien-vinfast-1.png" alt="" class="wp-image-458" width="600" height="396"/></figure></div>
 
 
-<p>xe đạp điện vinfast</p>
+<p><strong>xe đạp điện vinfast</strong></p>
 
 
 
@@ -154,8 +152,8 @@
 <p></p>
 
 
-<p><iframe loading="lazy" src="https://giphy.com/embed/3oz8xwsGcaZWWB8KyY" width="480" height="434" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></p>
-<p><a href="https://giphy.com/gifs/animation-motorcycle-3oz8xwsGcaZWWB8KyY" target="_blank" rel="noopener">via GIPHY</a></p>]]></content:encoded>
+<p><iframe loading="lazy" class="giphy-embed" src="https://giphy.com/embed/3oz8xwsGcaZWWB8KyY" width="480" height="434" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>]]></content:encoded>
 					
 					<wfw:commentRss>https://congvu1.github.io/wordpress1/xe-may-dien-vinfast/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
